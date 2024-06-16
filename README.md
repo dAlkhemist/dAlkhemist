@@ -1,4 +1,10 @@
-## Hi there 👋
+# Sup, I'm Alkhemist.
+
+## About me 
+Some random nerd who likes to investigate various bullshit.
+
+## Active labs:
+[Lab I](https://github.com/AlkhemistLab1)
 
 <!--
 **dAlkhemist/dAlkhemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
